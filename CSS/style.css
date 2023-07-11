@@ -1,0 +1,226 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Merriweather, sans-serif ;
+    background-color: white;
+}
+
+h1{
+   margin-top: 0;
+   padding-top: 60px;
+   font-family: Sacramento, sans-serif;
+   color: #66BFBF;
+   font-size: 4.5rem;
+   line-height: 2;
+}
+
+h2{
+    color: #66BFBF;
+    font-weight: normal; 
+  
+}
+
+h3{
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+}
+
+p{
+    font-family: Montserrat, sans-serif;
+    font-weight: bold;
+}
+
+.upperDiv{
+    background-color: #DAFFFB;
+    position: relative; 
+}
+
+.img2{
+    position: absolute;
+    top: 140px;
+    right: 880px;
+}
+
+.img1{
+    position: absolute;
+    right: 250px;
+    top: 20px;  
+}
+
+.middleDiv{
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
+.mypic{
+    margin-top: 60px;
+    width: 25%;
+    border-radius: 100px;
+   
+}
+
+.computerpic{
+    width: 25%;
+    border-radius: 100px;
+    float: left;
+    margin-right: 30px;
+
+}
+
+.chilliepic{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.p1{
+    line-height: 35px;
+    text-align: left;
+}
+
+.p2{
+    line-height: 35px;
+    text-align: left;
+}
+
+.div2{
+    margin-bottom: 65px;
+} 
+
+.div3{
+    margin-bottom: 60px;
+}
+
+.head1{
+    text-align: left;
+}
+
+.head2{
+    text-align: left;
+}
+
+.headskills{
+    margin-top: 60px;
+}
+
+.head9{
+    margin-top: 60px;
+}
+
+.div4{
+    line-height: 35px;
+}
+
+.btn{
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: larger;
+    background-color:#66BFBF ;
+    border-width: 1px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    color:white;
+}
+
+.bottomDiv{
+    background-color: #66BFBF;
+    line-height: 50px;
+}
+
+a{
+    color: white;
+    padding-left: 15px ;
+    padding-right: 15px;
+    text-decoration: none;
+    font-size: small;
+
+}
+
+.p7{
+    margin-bottom: 0;
+    color: white;
+    font-size: 0.55rem;
+}
+
+hr{
+    border-style: dotted;
+    border-width: 4px;
+    width: 10%;
+    border-bottom: 0;
+    border-color: #11999E;  
+}
+
+.p9{
+    margin-bottom: 60px;
+}
+
+
+
+
+/*
+.middlebox{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    border:solid 20px;
+    margin-left: 260px;
+  
+}
+.bottombox{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border:solid 10px;
+    margin-left: 500px;
+    ;
+   
+}
+
+
+.box1{
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+   
+   
+}
+
+.box2{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.box3{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+   position: absolute;
+   bottom: 30px;
+   left: 40px;
+   
+}
+  /*border:solid 10px;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+
+                               important point for sizing font
+                                      1em = 16px = 100%
+                                    use rem intead of em, it will block other sizing
+
+                                    margin : auto
+                                    auto left and right means CENTER
+
+                                    ***color hunt, flat icons, google font***
+    
+    
+    */ 
+
+
